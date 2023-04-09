@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/ron-trvl/static/css/main.092c88f4.css",
-    "main.js": "/ron-trvl/static/js/main.b3295106.js",
+    "main.css": "/ron-trvl/static/css/main.d0113695.css",
+    "main.js": "/ron-trvl/static/js/main.187f18bd.js",
     "static/media/space.mp4": "/ron-trvl/static/media/space.b2b87f0d088e7af1f87b.mp4",
+    "static/media/moon.jpg": "/ron-trvl/static/media/moon.1cf214d6750ba4700e33.jpg",
+    "static/media/heroImg.jpg": "/ron-trvl/static/media/heroImg.ce71d0422c688e5290a7.jpg",
+    "static/media/pod.jpg": "/ron-trvl/static/media/pod.1e59c07a0a1d5e7ef542.jpg",
     "index.html": "/ron-trvl/index.html",
-    "main.092c88f4.css.map": "/ron-trvl/static/css/main.092c88f4.css.map",
-    "main.b3295106.js.map": "/ron-trvl/static/js/main.b3295106.js.map"
+    "main.d0113695.css.map": "/ron-trvl/static/css/main.d0113695.css.map",
+    "main.187f18bd.js.map": "/ron-trvl/static/js/main.187f18bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.092c88f4.css",
-    "static/js/main.b3295106.js"
+    "static/css/main.d0113695.css",
+    "static/js/main.187f18bd.js"
   ]
 }
